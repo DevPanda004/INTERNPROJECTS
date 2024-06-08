@@ -1,0 +1,7 @@
+os
+flask
+yfinance
+numpy
+pandas
+sklearn
+matplotlib.pyplot
